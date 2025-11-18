@@ -1,3 +1,5 @@
+https://github.com/Thiepai/GSkotlin
+
 📱 App IMC — Kotlin + Jetpack Compose
 
 Aplicativo Android para cálculo de IMC com navegação entre telas, autenticação simples e exibição de integrantes da equipe.
