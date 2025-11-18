@@ -19,6 +19,7 @@ Senha: 123456
 Em caso de erro, uma mensagem é exibida
 
 Em caso de sucesso, redireciona para o menu
+
 <img width="534" height="651" alt="image" src="https://github.com/user-attachments/assets/9458ff6a-d983-47cf-88ae-dc18ff70b65b" />
 <img width="341" height="617" alt="image" src="https://github.com/user-attachments/assets/155e4a59-f8cd-4416-ac7b-8a2316148ec0" />
 
